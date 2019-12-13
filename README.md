@@ -8,6 +8,6 @@ The following frameworks are demonstrated:
 * Apache Flink
 * Apache Storm
 * Apache Ignite
-* Hazelcast JET
+* Hazelcast Jet
 * Kafka Streams
 * Pulsar Functions
